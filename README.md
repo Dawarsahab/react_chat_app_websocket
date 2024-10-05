@@ -11,6 +11,3 @@ WebSocket technology with Socket.io for fast and reliable bi-directional communi
 Event-driven architecture for an enhanced user experience
 
 
-Demo
-![Uploading Screenshot 2024-10-06 at 3.01.33 AM.png…]()
-
