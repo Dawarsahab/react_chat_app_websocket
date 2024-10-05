@@ -1,7 +1,9 @@
 Real-time Chat Application
+
 A real-time chat application built using JavaScript, React.JS, Node.JS, and Socket.io. This project enables instant messaging and live updates across multiple users, providing a seamless real-time chat experience. WebSockets have been integrated for efficient bi-directional communication, ensuring smooth and responsive interaction among users.
 
 Features
+
 Real-time communication between users
 Instant messaging with live updates
 Multiple users can chat simultaneously
@@ -10,4 +12,5 @@ Event-driven architecture for an enhanced user experience
 
 
 Demo
+![Uploading Screenshot 2024-10-06 at 3.01.33 AM.png…]()
 
